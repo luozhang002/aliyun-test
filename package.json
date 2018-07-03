@@ -1,7 +1,7 @@
 
 {
   "name": "aliyun-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A cross-platform React Native SDK for AliyunOSS Services, providing most of the OSS APIs, like client initialization, uploading & downloading etc.",
   "main": "index.js",
   "scripts": {

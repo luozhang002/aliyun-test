@@ -1,9 +1,8 @@
 //
 //  RNAliyunOSS.h
-//  RNAliyunOSS
+//  NativeAddRN
 //
-//  Created by CHEN Jiajie on 10/6/2017.
-//  Copyright © 2017 Facebook. All rights reserved.
+//  Created by 罗章 on 2018/5/8.
 //
 
 #import <React/RCTBridgeModule.h>

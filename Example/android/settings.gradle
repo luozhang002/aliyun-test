@@ -1,3 +1,5 @@
 rootProject.name = 'Example'
+include ':aliyun-test'
+project(':aliyun-test').projectDir = new File(rootProject.projectDir, '../node_modules/aliyun-test/android')
 
 include ':app'
