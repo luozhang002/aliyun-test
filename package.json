@@ -1,0 +1,32 @@
+
+{
+  "name": "aliyun-test",
+  "version": "0.0.1",
+  "description": "A cross-platform React Native SDK for AliyunOSS Services, providing most of the OSS APIs, like client initialization, uploading & downloading etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aliyun",
+    "oss",
+    "aliyun-oss",
+    "oss-sdk",
+    "aliyun-sdk",
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "android",
+    "ios"
+  ],
+  "author": {
+    "name": "Chen Jiajie",
+    "email": "gameboyvito@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gameboyVito/aliyun-oss-react-native-sdk.git"
+  },
+  "homepage": "https://github.com/gameboyVito/aliyun-oss-react-native-sdk#readme",
+  "license": "Apache License 2.0"
+}
